@@ -1,0 +1,6 @@
+{
+  "name": "RelativisticLab",
+  "description": "Relativistic particle dynamics laboratory with real-time vector field simulation, RK4 integration, and telemetry analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
