@@ -4,7 +4,10 @@
 [![Language](https://img.shields.io/badge/Language-Kotlin%202.x-purple.svg)](https://kotlinlang.org)
 [![Numerical Engine](https://img.shields.io/badge/Integrator-RK4%20(4th--Order%20Runge--Kutta)-emerald.svg)](#mathematical-foundations--numerical-methods)
 [![Architecture](https://img.shields.io/badge/UI%2FUX-60%2F120%20FPS%20Hardware--Accelerated%20Canvas-cyan.svg)](#technical-stack--professional-libraries-used)
+[![Direct APK Download](https://img.shields.io/badge/Direct%20Download-RelativisticLab.apk-brightgreen?logo=android)](RelativisticLab.apk)
 [![License](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE)
+
+> 📲 **Direct Download:** You can install the pre-compiled standalone application directly from the repository: **[Download RelativisticLab.apk](RelativisticLab.apk)**
 
 ---
 
@@ -125,11 +128,16 @@ Adaptive sub-stepping (5–10 numerical sub-iterations per 16ms frame) guarantee
 * **JDK 17** or **JDK 21** configured
 * Android SDK Platform API 34+
 
-### Build & Execution
+### Direct Download & Installation
+For instant testing without compiling source code:
+* Download the compiled binary: **[`RelativisticLab.apk`](RelativisticLab.apk)** (located in the repository root).
+* Sideload the `.apk` on any Android 14+ (API 34+) physical device or emulator.
+
+### Build from Source & Execution
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/relativistic-lab.git
+   git clone https://github.com/EthYusuf/relativistic-lab.git
    cd relativistic-lab
    ```
 
